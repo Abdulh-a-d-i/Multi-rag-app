@@ -1,0 +1,20 @@
+# .gitignore
+.env
+**/.env
+**/__pycache__/
+**/*.pyc
+**/*.pyd
+**/*.so
+**/*.dll
+**/*.lib
+**/*.exe
+**/*.bin
+**/*.sqlite3
+**/*.pdf
+**/*.mp4
+**/*.wav
+**/venv/
+**/temp_media/
+**/uploads/
+**/models/
+**/chroma_db/

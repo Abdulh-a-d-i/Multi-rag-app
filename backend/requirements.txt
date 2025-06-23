@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+pypdf
+chromadb==0.4.24
+python-dotenv
+openai
+ffmpeg-python
+openai-whisper
+python-multipart
